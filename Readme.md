@@ -28,18 +28,15 @@
 ![Database](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Node js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)\
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)/
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C#](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)\
+
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma%20XD-05122A?style=flat&logo=figma&logoColor=white)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 
@@ -49,7 +46,7 @@
 <a href="https://instagram.com/atmesh.pandey"><img src="https://img.shields.io/badge/-@atmesh.pandey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <!--
-**AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Atmesh Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
