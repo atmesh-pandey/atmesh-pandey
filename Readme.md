@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Full stack developer, working on web development project using the React.js & Node.js. \
-💻 &nbsp;I'm currently creating multiple project in Repository, Please watch my repo & contribute them.\
+💻 &nbsp;I'm currently creating multiple project & share in Repository, Please watch my repo & contribute them for any bug.\
 🎓&nbsp;I graduated form Corporate Institute of Science and Technology, Bhopal (B.Tech, Computer Science and Engineering, Batch of 2022).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play Video games, Gardening, Chess and pursue writing as my hobbies.\
@@ -44,7 +44,7 @@
 <a href="mailto:atmesh2020@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/atmesh.pandey"><img src="https://img.shields.io/badge/-@atmesh.pandey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-<!--
+
 **Atmesh Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
