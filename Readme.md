@@ -24,7 +24,7 @@
 💡 &nbsp; I'm a Full stack developer, working on web development project using the React.js & Node.js. \
 💻 &nbsp;I'm currently creating multiple project & share in Repository, Please watch my repo & contribute them for any bug.\
 🎓&nbsp;I graduated form Corporate Institute of Science and Technology, Bhopal (B.Tech, Computer Science and Engineering, Batch of 2022).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Computer Vision.\
 ✍️ &nbsp;In my free time, I play Video games, Gardening, Chess and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at atmesh2020@gmail.com. I'll try to respond as soon as possible!\
