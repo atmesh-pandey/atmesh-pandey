@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on content creators
 - 🤔 I’m looking for help with Web Development Job
 - 💬 Ask me about Web Development & UI Degining
-- 📫 How to reach me: <a href="mailto:atmesh2020@gmail.com">Gmail</a> || <a href="https://www.linkedin.com/in/atmesh-pandey/">LinkedIn</a>;
+- 📫 How to reach me: <a href="mailto:atmesh2020@gmail.com">Gmail</a> || <a href="https://www.linkedin.com/in/atmesh-pandey/">LinkedIn</a>
 - 😄 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Learning
 
