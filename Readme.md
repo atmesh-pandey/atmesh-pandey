@@ -27,7 +27,7 @@
 ![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=white)&nbsp;
 ![Database](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Node js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
-![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)/
 ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
