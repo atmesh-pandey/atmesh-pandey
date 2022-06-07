@@ -5,20 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on web Development
+- 🌱 I’m currently learning React & Node.js
+- 👯 I’m looking to collaborate on content creators
+- 🤔 I’m looking for help with Web Development Job
+- 💬 Ask me about Web Development & UI Degining
+- 📫 How to reach me: Gmail || Twitter || LinkedIn
+- 😄 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Learning
 
 
 ### <!-- <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>--> Hello there !
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=atmesh-pandey&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/atmesh-pandey?label=follow&style=social)](https://github.com/atmesh-pandey)&nbsp;
+[![GitHub Atmesh Pandey](https://img.shields.io/github/followers/atmesh-pandey?label=follow&style=social)](https://github.com/atmesh-pandey)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ✍️ &nbsp;In my free time, I play Video games, Gardening, Chess and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at atmesh2020@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my <!--[Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing)--> for more details about work experience.
+📄 &nbsp;You can check my <!--[Resume](https://)--> for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
