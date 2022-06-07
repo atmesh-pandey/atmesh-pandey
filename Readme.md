@@ -8,8 +8,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
+💡 &nbsp; I'm a Full stack developer, working on web development project using the React.js & Node.js. \
+💻 &nbsp;I'm currently creating multiple project in  repo.\
 🎓&nbsp;I graduated form Corporate Institute of Science and Technology, Bhopal (B.Tech, Computer Science and Engineering, Batch of 2022).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play Video games, Chess and pursue writing as my hobbies.\
