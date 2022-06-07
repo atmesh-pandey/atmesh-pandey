@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on content creators
 - 🤔 I’m looking for help with Web Development Job
 - 💬 Ask me about Web Development & UI Degining
-- 📫 How to reach me: Gmail || Twitter || <a href="https://www.linkedin.com/in/atmesh-pandey/"></a>;
+- 📫 How to reach me: <a href="mailto:atmesh2020@gmail.com">Gmail</a> || <a href="https://www.linkedin.com/in/atmesh-pandey/">LinkedIn</a>;
 - 😄 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Learning
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/er-atmesh-pandey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/atmesh-pandey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:atmesh2020@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/atmesh.pandey"><img src="https://img.shields.io/badge/-@atmesh.pandey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
