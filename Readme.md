@@ -45,6 +45,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Express js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
