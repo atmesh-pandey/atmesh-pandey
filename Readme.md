@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Web Development Job
 - 💬 Ask me about Web Development & UI Degining
 - 📫 How to reach me: <a href="mailto:atmesh2020@gmail.com">Gmail</a> || <a href="https://www.linkedin.com/in/er-atmesh-pandey/">LinkedIn</a>
-- 😄 2022 Goals: Contribute more to Open Source projects
+- 😄 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Learning
 
 
