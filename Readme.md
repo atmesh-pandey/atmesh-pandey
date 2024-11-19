@@ -34,10 +34,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-React-05122A?style=flat&logo=java)&nbsp;
-![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=springboot)&nbsp;
-![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=hibernate)&nbsp;
-![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=mysql)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-React-05122A?style=flat&logo=springboot)&nbsp;
+![Hibernate](https://img.shields.io/badge/-React-05122A?style=flat&logo=hibernate)&nbsp;
+![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=reactl)&nbsp;
 ![Node js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/-React-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Express js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
