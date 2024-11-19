@@ -1,9 +1,6 @@
-<!-- ![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
--->
+👋 Hi, I'm Atmesh Pandey!
 
-**Atmesh Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+✨ Welcome to my GitHub profile ✨
 🔭 I’m currently working on web development using Spring Boot, Hibernate, and Microservices.
 🌱 I’m currently learning React, Node.js, and AWS.
 👯 I’m looking to collaborate with content creators.
@@ -34,13 +31,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;  
