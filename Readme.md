@@ -67,6 +67,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=atmesh-pandey" />\
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmesh-pandey" />
-
-ChatGPT said:
-ChatGPT
