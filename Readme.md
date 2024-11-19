@@ -2,12 +2,12 @@
 
 
 🔭 I’m currently working on web development using Spring Boot, Hibernate, and Microservices. <br>
-🌱 I’m currently learning React, Node.js, and AWS.
-👯 I’m looking to collaborate with content creators.
-🤔 I’m looking for help with opportunities in Web Development and Microservices architecture.
-💬 Ask me about Java, Spring Boot, MySQL, and UI designing.
-📫 How to reach me: Gmail || LinkedIn
-😄 2025 Goals: Contribute more to open-source projects and enhance skills in AWS and Microservices.
+🌱 I’m currently learning React, Node.js, and AWS.<br>
+👯 I’m looking to collaborate with content creators.<br>
+🤔 I’m looking for help with opportunities in Web Development and Microservices architecture.<br>
+💬 Ask me about Java, Spring Boot, MySQL, and UI designing.<br>
+📫 How to reach me: Gmail || LinkedIn.<br>
+😄 2025 Goals: Contribute more to open-source projects and enhance skills in AWS and Microservices.<br>
 ⚡ Fun fact: Always curious about learning new technologies!
 
 
