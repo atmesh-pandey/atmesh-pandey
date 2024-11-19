@@ -4,14 +4,14 @@
 **Atmesh Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on web Development
-- 🌱 I’m currently learning React & Node.js
-- 👯 I’m looking to collaborate on content creators
-- 🤔 I’m looking for help with Web Development Job
-- 💬 Ask me about Web Development & UI Degining
-- 📫 How to reach me: <a href="mailto:atmesh2020@gmail.com">Gmail</a> || <a href="https://www.linkedin.com/in/atmesh-pandey/">LinkedIn</a>
-- 😄 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Learning
+🔭 I’m currently working on web development using Spring Boot, Hibernate, and Microservices.
+🌱 I’m currently learning React, Node.js, and AWS.
+👯 I’m looking to collaborate with content creators.
+🤔 I’m looking for help with opportunities in Web Development and Microservices architecture.
+💬 Ask me about Java, Spring Boot, MySQL, and UI designing.
+📫 How to reach me: Gmail || LinkedIn
+😄 2025 Goals: Contribute more to open-source projects and enhance skills in AWS and Microservices.
+⚡ Fun fact: Always curious about learning new technologies!
 
 
 ### <!-- <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>--> 👋Hello there !
@@ -21,7 +21,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Full stack developer, working on web development project using the React.js & Node.js. \
+💡 &nbsp; I'm a Full stack developer, working on web development project using Spring Boot, Hibernate, React.js & Node.js. \
 💻 &nbsp;I'm currently creating multiple project & share in Repository, Please watch my repo & contribute them for any bug.\
 🎓&nbsp;I graduated form Corporate Institute of Science and Technology, Bhopal (B.Tech, Computer Science and Engineering, Batch of 2022).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Computer Vision.\
@@ -33,7 +33,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Java](https://img.shields.io/badge/-React-05122A?style=flat&logo=java)&nbsp;
+![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=springboot)&nbsp;
+![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=hibernate)&nbsp;
+![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=mysql)&nbsp;
 ![Node js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
