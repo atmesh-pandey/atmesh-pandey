@@ -54,6 +54,20 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### 🚀 Advanced Topics & Expertise
+
+- Advanced Java (Multithreading, Collections, Streams, Lambdas)  
+- Spring Boot (Security, Data JPA, REST APIs, Microservices)  
+- Hibernate ORM & JPA (Entity Mapping, Criteria API, Caching)  
+- RESTful API Design and Development  
+- Microservices Architecture & Spring Cloud  
+- OAuth2 & JWT Authentication  
+- Database Design & Optimization (MySQL, MongoDB)  
+- Frontend Integration (React.js, Redux)  
+- Build & Deployment Tools (Maven, Docker, Jenkins)  
+- Cloud Basics (AWS services like EC2, S3, Lambda)  
+- Unit Testing & Integration Testing (JUnit, Mockito)  
+
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/atmesh-pandey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
