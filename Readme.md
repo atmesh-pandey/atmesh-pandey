@@ -1,34 +1,35 @@
-"Atmesh Pandey" is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+# Atmesh Pandey
 
+✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-🔭 I’m currently working on web development using Spring Boot, Hibernate, and Microservices. <br>
-🌱 I’m currently learning React, Node.js, and AWS.<br>
-👯 I’m looking to collaborate with content creators.<br>
-🤔 I’m looking for help with opportunities in Web Development and Microservices architecture.<br>
-💬 Ask me about Java, Spring Boot, MySQL, and UI designing.<br>
-📫 How to reach me: Gmail || LinkedIn.<br>
-😄 2025 Goals: Contribute more to open-source projects and enhance skills in AWS and Microservices.<br>
+🔭 I’m currently working on web development using Spring Boot, Hibernate, Microservices, and Java Full Stack development.  
+🌱 I’m currently learning React, Node.js, and AWS.  
+👯 I’m looking to collaborate with content creators.  
+🤔 I’m looking for help with opportunities in Web Development and Microservices architecture.  
+💬 Ask me about Java, Spring Boot, MySQL, and UI designing.  
+📫 How to reach me: Gmail || LinkedIn.  
+😄 2025 Goals: Contribute more to open-source projects and enhance skills in AWS and Microservices.  
 ⚡ Fun fact: Always curious about learning new technologies!
 
+### 👋 Hello there!
 
-### <!-- <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>--> 👋Hello there !
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=atmesh-pandey&color=red)&nbsp;
 [![GitHub Atmesh Pandey](https://img.shields.io/github/followers/atmesh-pandey?label=follow&style=social)](https://github.com/atmesh-pandey)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Full stack developer, working on web development project using Spring Boot, Hibernate, React.js & Node.js. \
-💻 &nbsp;I'm currently creating multiple project & share in Repository, Please watch my repo & contribute them for any bug.\
-🎓&nbsp;I graduated form Corporate Institute of Science and Technology, Bhopal (B.Tech, Computer Science and Engineering, Batch of 2022).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Computer Vision.\
-✍️ &nbsp;In my free time, I play Video games, Gardening, Chess and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at atmesh2020@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my <!--[Resume](https://)--> for more details about work experience.
+### 👨🏻‍💻 About Me
 
+💡 I'm a **Full Stack Java Developer**, working on web development projects using Spring Boot, Hibernate, React.js & Node.js.  
+💻 I'm currently creating multiple projects and sharing them in this repository. Please watch my repos & contribute for any bugs.  
+🎓 I graduated from Corporate Institute of Science and Technology, Bhopal (B.Tech, Computer Science and Engineering, Batch of 2022).  
+🌱 I'm on track to learn more about Artificial Intelligence and Computer Vision.  
+✍️ In my free time, I enjoy video games, gardening, chess, and writing.  
+💬 Feel free to reach out to me for consulting or discussions on any of the above topics!  
+✉️ You can email me at atmesh2020@gmail.com. I'll try to respond as soon as possible!  
+📄 Check my <!--[Resume](https://)--> for more details about my work experience.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -53,17 +54,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 📫 &nbsp; How to reach me:
-
+### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/atmesh-pandey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:atmesh2020@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/atmesh.pandey"><img src="https://img.shields.io/badge/-@atmesh.pandey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+---
 
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=atmesh-pandey" />\
+<img src="https://github-readme-stats.vercel.app/api?username=atmesh-pandey" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmesh-pandey" />
